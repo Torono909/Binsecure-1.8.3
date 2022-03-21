@@ -1,14 +1,10 @@
-# Binsecure-1.8.3
-Latest release of the Binsecure obfuscator.
+# binscure
 
-If you build and attempt to run, it will crash.
-This is because the licensing system is still in place.
-You will have to bypass it
+### Usage:
 
-[How to bypass licensing](https://github.com/Gopro336/Binsecure-1.8.3/blob/main/LicensingBypass.md)
+Import your `build.gradle` into Intellij as a "New > Project from existing sources"
 
-or, click on the bypassed branch
+If you get a Java Home error, meaning that your Java home path is missing, change the `org.gradle.java.home=` inside `gradle.properties` to your jre8u241 extracted folder.
 
-
-if you would like to use this obfuscator, check [this documentation](https://github.com/binclub/BinscureDocumentation
-)
+- buy binscure at https://binclub.dev/binscure
+there is no malicious intent behind this release. only releasing because it has spread to other people of which i do not want to have it. @x4e feel free to open source latest vers if u want :D
